@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'Learn Video Editing',
   author: 'Sulaiman Shafiq',
-  headerTitle: 'Learning Video Editing',
+  headerTitle: 'Learn Video Editing',
   description: 'Blog dedicated to learning video editing.',
   language: 'en-us',
   theme: 'system', // system, dark or light
