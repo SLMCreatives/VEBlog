@@ -15,7 +15,7 @@ const projectsData: Project[] = [
   {
     title: 'The Pejabat Digital',
     description: `Membawa perkhidmatan pemasaran digital komprehensif yang termasuk website, SEO, pengiklanan, konten media sosial dan sebagainya`,
-    imgSrc: '/static/images/tpd.jpg',
+    imgSrc: '/static/images/tpd.png',
     href: 'https://thepejabat.my/',
   },
 ]
