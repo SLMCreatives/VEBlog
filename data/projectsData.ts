@@ -7,20 +7,16 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'SLM Creatives',
+    description: `My freelance digital marketing company. This is where I do most of my work in content creation including graphic design, video editing and website development.`,
+    imgSrc: '/static/images/slm.png',
+    href: 'https://www.slmcreatives.com',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'The Pejabat Digital',
+    description: `Membawa perkhidmatan pemasaran digital komprehensif yang termasuk website, SEO, pengiklanan, konten media sosial dan sebagainya`,
+    imgSrc: '/static/images/tpd.jpg',
+    href: 'https://thepejabat.my/',
   },
 ]
 
